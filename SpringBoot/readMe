@@ -1,0 +1,53 @@
+Spring Boot简单介绍
+    是一个全新框架，目的是简化Spring应用的搭建与开发过程
+    该框架使开发人员不需要定义样板化的配置
+    从根本上讲，是一些库的集合，构建项目，无需自行管理这些库的版本。
+Spring Boot特点
+    创建独立的Spring应用程序
+    嵌入的Tomcat，无需部署WAR文件
+    简单化Maven配置
+    自动配置Spring
+    提供生产就绪功能，如指标，健康检查和外部配置。
+Spring Boot使用场景
+    开发restful风格的微服务架构
+    微服务，自动化，横向扩展
+    精简配置与整合其他工具
+====================================================
+SpringBoot的特点：
+    1.化繁为简，简化配置
+    2.备受关注，是下一代框架
+    2.为服务的入门级微框架
+Spring-Data-Jpa
+    JPA(Java Persistence API)定义了一系列对象持久化的标准，目前实现了这一规范的产品有Hibernate,TopLink等
+AOP统一处理请求日志
+    AOP是一种编程范式
+        与语言无关，是一种程序设计思想
+           面向切面(AOP) Aspect Oriented Programming
+           面向对象(OOP) object Oriented Programming
+           面向过程(POP) Procedure Oriented Programming
+    面向过程到面向对象
+    换个角度看世界，换个姿势处理问题
+    将通用的逻辑从业务逻辑中分离出来
+
+    收到HttpReqeust请求
+    记录请求
+    处理网络请求
+    生成HttpResponse
+    记录回复
+
+    收到数据库操作请求
+    记录请求
+    增删改查
+    生成处理结果
+    记录回复
+
+    AOP同意处理请求日志
+    记录每一个http请求
+ WEB进阶
+    1.使用@Valid表单验证
+    2.使用AOP处理请求
+    3.
+
+
+
+
